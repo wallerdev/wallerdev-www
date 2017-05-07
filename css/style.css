@@ -1,0 +1,138 @@
+body {
+  color: #3F3F3F;
+  background-color: #FFF;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 150%;
+}
+
+h1 {
+  margin-bottom: 30px;
+  font-size: 180%;
+  font-weight: bold;
+  display: inline;
+  font-family: Merriweather, serif;
+}
+
+h2 {
+  font-size: 120%;
+  margin: 0;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 100%;
+}
+
+#info {
+  text-align: center;
+}
+
+.project {
+  padding-left: 10px;
+}
+
+#about {
+  width: 660px;
+  margin: 20px auto;
+}
+
+#details {
+  width: 660px;
+  margin: 20px auto;
+}
+
+p {
+  margin: 10px 0;
+}
+
+#projects {
+  margin: 40px auto;
+  width: 660px;
+}
+
+#projects p {
+  margin: 0;
+}
+
+#header {
+  background-color: #EEEEEE;
+  text-align: center;
+  padding: 1.2em;
+  border-bottom: 1px solid #E4E4E4;
+  text-shadow: 0 2px 0 rgba(255, 255, 255, 0.6);
+}
+
+#header a {
+  color: #3F3F3F;
+}
+
+#header p {
+  margin: 0 auto;
+  font-weight: bold;
+  font-size: 200%;
+}
+
+#name {
+  color: #FF3C21;
+}
+
+a {
+  color: #FF391F;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #FF391F;
+}
+
+#projectImages {
+  margin: 30px 15px 0 15px;
+}
+
+#projectImages p {
+  margin-bottom: 10px;
+}
+
+.side {
+  float: right;
+}
+
+.heading {
+  border-bottom: 1px solid #DDD;
+  padding-bottom: 10px;
+}
+
+.subtext {
+  color: #BFBFBF;
+  margin-left: 5px;
+}
+
+.backLink {
+  font-size: 90%;
+}
+
+#detailsMain {
+  width: 440px;
+}
+
+#detailsSide {
+  
+}
+
+#screenshots {
+  margin-top: 15px;
+}
+
+#screenshots a {
+  margin-right: 10px;
+}
+
+#screenshots img {
+  border: 1px solid black;
+}
